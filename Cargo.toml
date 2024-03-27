@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Eli Fischl <vio@ocf.berkeley.edu>","Patrick Unick <dev_storm@winux.com>"]
 license = "MIT"
 keywords = ["plotting", "data_visualization"]
-repository = "https://github.com/Vio-Eli/rnum"
+repository = "https://github.com/Vio-Eli/rplot"
 description = "RPlot is a advanced library for data visualization, designed to be used in conjunction with RNum. It offers matplotlib like functionality."
 
 [lib]
